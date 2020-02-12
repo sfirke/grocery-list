@@ -2,7 +2,7 @@
 Customizable, printable check-off grocery list
 
 ## What
-A grocery list, made from a spreadsheet, that prints on a single page.
+A [grocery list, made from a spreadsheet](https://github.com/sfirke/grocery-list/raw/master/grocery%20list.xlsx), that prints on a single page.   <-- Click that link to download.
 
 <img src="./list_snapshot.jpg" width="50%" height="50%">
 
