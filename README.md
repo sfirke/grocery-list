@@ -1,6 +1,11 @@
 # grocery-list
 Customizable, printable check-off grocery list
 
+## What
+A grocery list, made from a spreadsheet, that prints on a single page.
+
+<img src="./list_snapshot.jpg" width="50%" height="50%">
+
 ## Why
 - Solves the problem of looking in the pantry to see what's *not* there
 - Pen and paper > another app
