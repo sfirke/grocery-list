@@ -19,6 +19,7 @@ A [grocery list, made from a spreadsheet](https://github.com/sfirke/grocery-list
 - Meal ideas go in the whitespace at the bottom
 
 ### Why GitHub
-In case people aren't comfortable opening an Excel file from the internet, this makes it more transparent who it was edited by and when.
+In case people aren't comfortable opening an Excel file from the internet, this makes it more transparent who it was edited by and when.  There's no code in this repo and I made all of the README edits from the browser.
 
+### Please customize and reshare
 This grocery list is licensed under a [Creative Commons BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).  Feel free to edit and reshare it within those restrictions.
